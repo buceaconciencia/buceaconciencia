@@ -1,0 +1,28 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "Bucea con Ciencia"
+  left:
+    - text: "Inicio"
+      icon: fa-home
+      href: index.html
+    - text: "Nuestro equipo"
+      icon: fa-address-card
+      href: ourteam.html
+    - text: "Proyectos"
+      icon: fa-gear
+      href: project.html
+      menu: 
+        - text: "Sea Science"
+        - text: "Ocean Day"
+          href: oceanday.html 
+    - text: "Unete"
+      icon: fa-info
+      href: about.html
+    
+      
+output:
+  html_document:
+    theme: paper
+    highlight: tango
+    
