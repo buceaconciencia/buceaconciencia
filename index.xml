@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>my-website</title>
+    <title>Bucea con Ciencia</title>
     <link>https://blogs.rstudio.com/tensorflow/</link>
     <atom:link href="https://blogs.rstudio.com/tensorflow/index.xml" rel="self" type="application/rss+xml"/>
     <description>Exploring reproducible finance with the R statistical 
 computing environment.
 </description>
     <image>
-      <title>my-website</title>
+      <title>Bucea con Ciencia</title>
       <url>https://blogs.rstudio.com/tensorflow/images/logo.jpg</url>
       <link>https://blogs.rstudio.com/tensorflow/</link>
     </image>

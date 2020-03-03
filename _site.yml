@@ -1,5 +1,5 @@
 name: "my-website"
-title: "my-website"
+title: "Bucea con Ciencia"
 output_dir: "."
 description: |
   Exploring reproducible finance with the R statistical 
@@ -20,10 +20,10 @@ navbar:
         - text: "Ocean Day"
           href: oceanday.html 
     - text: "Unete"
-      icon: fa-info
+      icon: fab fa-github
       href: about.html
 base_url: https://blogs.rstudio.com/tensorflow/
-google_analytics: "UA-102325748-2"
+google_analytics: "UA-159578689-1"
 favicon: images/logo.jpg
 collections:
   posts:
