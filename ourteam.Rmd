@@ -2,4 +2,15 @@
 title: "Nuestro equipo"
 ---
 
-Hello, Website!
+ ```{r bibsetup, echo=FALSE, message=FALSE, warning=FALSE}
+    ## Load knitcitations with a clean bibliography
+    library('knitcitations')
+    cleanbib()
+    cite_options(hyperlink = 'to.doc', citation_format = 'text',
+    style = 'html')
+    
+    bib <- c('knitcitations' = citation('knitcitations'),
+             'blogdown' = citation('blogdown')[2])
+    knitcitations::bibliography(style = 'html')
+    ```
+    

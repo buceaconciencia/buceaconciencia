@@ -1,16 +1,19 @@
 name: "my-website"
+title: "my-website"
 output_dir: "."
+description: |
+  Exploring reproducible finance with the R statistical 
+  computing environment.
 navbar:
   title: "Bucea con Ciencia"
-  left:
+  right:
     - text: "Inicio"
-      icon: fa-home
       href: index.html
+    - text: "Quienes somos"
+      href: whoarewe.html
     - text: "Nuestro equipo"
-      icon: fa-address-card
       href: ourteam.html
     - text: "Proyectos"
-      icon: fa-gear
       href: project.html
       menu: 
         - text: "Sea Science"
@@ -19,10 +22,16 @@ navbar:
     - text: "Unete"
       icon: fa-info
       href: about.html
-    
-      
-output:
-  html_document:
-    theme: paper
-    highlight: tango
+base_url: https://blogs.rstudio.com/tensorflow/
+google_analytics: "UA-102325748-2"
+favicon: images/logo.jpg
+collections:
+  posts:
+    creative_commons: CC BY
+    disqus: tensorflow-for-r-blog
+    share: [twitter, linkedin]
+    subscribe: _subscribe.html
+output: distill::distill_article
+
+
     

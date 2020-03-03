@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
+  <url>
+    <loc>https://blogs.rstudio.com/tensorflow/about.html</loc>
+    <lastmod>2020-03-02T12:27:36-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blogs.rstudio.com/tensorflow/</loc>
+    <lastmod>2020-03-03T10:49:32-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blogs.rstudio.com/tensorflow/oceanday.html</loc>
+    <lastmod>2020-03-02T12:27:36-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blogs.rstudio.com/tensorflow/ourteam.html</loc>
+    <lastmod>2020-03-03T09:15:05-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blogs.rstudio.com/tensorflow/project.html</loc>
+    <lastmod>2020-03-02T12:27:36-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blogs.rstudio.com/tensorflow/README.html</loc>
+    <lastmod>2020-03-02T16:11:26-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blogs.rstudio.com/tensorflow/whoarewe.html</loc>
+    <lastmod>2020-03-03T08:15:56-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blogs.rstudio.com/tensorflow/posts/2020-03-03-the-sharpe-ratio/</loc>
+    <lastmod>2020-03-03T10:37:27-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://blogs.rstudio.com/tensorflow/posts/2020-03-03-variabilidad-climatica/</loc>
+    <lastmod>2020-03-03T11:43:15-05:00</lastmod>
+  </url>
+</urlset>

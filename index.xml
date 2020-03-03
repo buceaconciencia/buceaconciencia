@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>my-website</title>
+    <link>https://blogs.rstudio.com/tensorflow/</link>
+    <atom:link href="https://blogs.rstudio.com/tensorflow/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Exploring reproducible finance with the R statistical 
+computing environment.
+</description>
+    <image>
+      <title>my-website</title>
+      <url>https://blogs.rstudio.com/tensorflow/images/logo.jpg</url>
+      <link>https://blogs.rstudio.com/tensorflow/</link>
+    </image>
+    <generator>Distill</generator>
+    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>The Sharpe Ratio</title>
+      <dc:creator>Unknown</dc:creator>
+      <link>https://blogs.rstudio.com/tensorflow/posts/2020-03-03-the-sharpe-ratio</link>
+      <description>A short description of the post.</description>
+      <guid>https://blogs.rstudio.com/tensorflow/posts/2020-03-03-the-sharpe-ratio</guid>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Variabilidad climatica</title>
+      <dc:creator>Unknown</dc:creator>
+      <link>https://blogs.rstudio.com/tensorflow/posts/2020-03-03-variabilidad-climatica</link>
+      <description>A short description of the post.</description>
+      <guid>https://blogs.rstudio.com/tensorflow/posts/2020-03-03-variabilidad-climatica</guid>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <media:content url="https://blogs.rstudio.com/tensorflow/posts/2020-03-03-variabilidad-climatica/variabilidad-climatica_files/figure-html5/unnamed-chunk-1-1.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+  </channel>
+</rss>
